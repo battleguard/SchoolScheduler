@@ -1,0 +1,996 @@
+Susan E. Terzian  3.5  3.5  3.5  2.8
+Margaret A. Houston  4.5  5.0  4.0  4.0
+Hans-Dieter Sprohge  2.5  2.5  2.5  2.5
+James W. Greenspan  2.1  2.0  2.3  2.0
+Kevin F. Brown  2.9  3.1  2.6  2.0
+Carolyn L. Hartwell  4.2  4.3  4.1  2.6
+David M. Bukovinsky  4.4  4.5  4.2  3.4
+Pao-Chuan Lin  2.1  2.3  1.9  2.2
+John K. Cook  3.6  3.5  3.7  2.2
+Susan S. Lightle  0.0  0.0  0.0  0.0
+Adrienne Stolfi  0.0  0.0  0.0  0.0
+Thomas F. Jarnot  2.7  2.4  3.0  4.0
+Farhad Sahiar  0.0  0.0  0.0  0.0
+Richard L. Graham , Robert N. Jenkins  0.0  0.0  0.0  0.0
+Harvey C. Grafton  0.0  0.0  0.0  0.0
+Robert N. Jenkins , Richard L. Graham  0.0  0.0  0.0  0.0
+Stefanie L. Van Dyk , Harvey C. Grafton  0.0  0.0  0.0  0.0
+Richard J. Hughes , Harvey C. Grafton  0.0  0.0  0.0  0.0
+Robert N. Jenkins , Harvey C. Grafton  0.0  0.0  0.0  0.0
+John Rogers  3.8  4.1  3.5  2.5
+Opolot J. Okia  2.3  2.3  2.3  2.3
+Judith Ezekiel  4.3  4.4  4.1  2.2
+Jonathan R. Winkler  3.8  3.6  4.0  2.4
+Dana M. Patterson  0.0  0.0  0.0  0.0
+Susan M. Fraker  4.4  4.4  4.3  4.1
+Barbara L. Dunaway  4.7  4.7  4.7  3.9
+Gwendolyn L. Trujillo  0.0  0.0  0.0  0.0
+Anisa J. Guy  4.9  4.8  5.0  4.0
+Mary B. Faile  0.0  0.0  0.0  0.0
+Margaret E. Daugherty  4.5  5.0  4.0  4.0
+Denise A. Dickson  0.0  0.0  0.0  0.0
+Kathryn C. Taylor  0.0  0.0  0.0  0.0
+Sharon L. Lane  0.0  0.0  0.0  0.0
+Paula G. Vaught  4.8  4.8  4.7  3.8
+Danny L. Miska  4.8  4.7  4.9  3.3
+Danny L. Miska , Nick A. Ritucci  0.0  0.0  0.0  0.0
+Dawn P. Wooley  0.0  0.0  0.0  0.0
+Larry J. Ream  0.0  0.0  0.0  0.0
+John C. Pearson  0.0  0.0  0.0  0.0
+Thomas L. Brown  0.0  0.0  0.0  0.0
+Amelia R. Hubbard  0.0  0.0  0.0  0.0
+Jill E. Krieg  3.9  3.8  4.0  4.0
+Laurel A. Monnig  4.6  4.5  4.7  3.9
+Geoffrey R. Owens  2.3  2.3  2.3  1.9
+Robert V. Riordan  0.0  0.0  0.0  0.0
+Robert L. Hunkeler  0.0  0.0  0.0  0.0
+Jacqueline A. Bergdahl  0.0  0.0  0.0  0.0
+David M. Orenstein  4.1  4.1  4.2  3.8
+Mary E. Leal  4.7  4.3  5.0  3.3
+Julie K. Harmon  0.0  0.0  0.0  0.0
+Tracey L. Steele  4.8  4.7  4.8  4.2
+Karen F. Lahm  4.6  4.5  4.6  3.5
+Amira B. Hollingsworth  0.0  0.0  0.0  0.0
+Emily M. Trick  0.0  0.0  0.0  0.0
+Kim A. Vito  3.6  4.0  3.2  3.0
+Paula W. Kraus  0.0  0.0  0.0  0.0
+Tracy S. Longley-Cook  4.8  5.0  4.5  2.0
+Benjamin J. Montague  4.0  4.0  4.0  3.0
+Stefan A. Chinov  0.0  0.0  0.0  0.0
+Penny Park  5.0  5.0  5.0  4.0
+Karla T. Huebner  3.9  3.8  4.0  2.7
+Frank O. Eguaroje  3.5  3.8  3.2  4.0
+Marsha M. Pippenger  4.4  4.4  4.4  4.1
+Frank C. Travers  0.0  0.0  0.0  0.0
+Rebecca D. Sargent  0.0  0.0  0.0  0.0
+Glen H. Cebulash  4.1  4.1  4.2  2.7
+Glen H. Cebulash , Kim A. Vito  0.0  0.0  0.0  0.0
+Caroline S. Hillard  0.0  0.0  0.0  0.0
+Danielle M. Rante  0.0  0.0  0.0  0.0
+Jeremy J. Long  4.7  4.5  4.8  4.4
+Glen H. Cebulash , Caroline S. Hillard  0.0  0.0  0.0  0.0
+Mary M. Baine  0.0  0.0  0.0  0.0
+Lizabeth A. Whipps  3.8  4.0  3.7  2.0
+Luis A. Ortiz  0.0  0.0  0.0  0.0
+Jessica L. Stanley  0.0  0.0  0.0  0.0
+Rebekah R. Bower  0.0  0.0  0.0  0.0
+Siobhan E. Fagan  4.5  5.0  4.0  4.0
+Cindy J. Guirino  2.9  2.8  3.1  2.6
+Gerald M. Alter , Steven J. Berberich  0.0  0.0  0.0  0.0
+Steven J. Berberich  0.0  0.0  0.0  0.0
+Madhavi P. Kadakia  0.0  0.0  0.0  0.0
+Ira M. Leffak , Gerald M. Alter , Yong-jie Xu  0.0  0.0  0.0  0.0
+Madhavi P. Kadakia , John V. Paietta , Oleg Paliy  0.0  0.0  0.0  0.0
+Gerald M. Alter  0.0  0.0  0.0  0.0
+Patricia N. Roberts  4.9  5.0  4.8  1.8
+Amy M. Wissman  3.7  3.5  4.0  3.2
+Marcia Wendeln  0.0  0.0  0.0  0.0
+Dan E. Krane  3.9  3.7  4.1  3.0
+Jacqueline S. Neal , Patricia N. Roberts , Courtney A. Smith  0.0  0.0  0.0  0.0
+Scott E. Baird  4.2  4.3  4.0  2.8
+Athanasios Bubulya  3.0  3.3  2.8  2.0
+Thomas P. Rooney  1.7  1.8  1.6  1.4
+Meredith A. Rodgers  0.0  0.0  0.0  0.0
+James R. Runkle  0.0  0.0  0.0  0.0
+Beverly A. Schieltz  4.1  4.0  4.2  3.4
+Laura L. Buerschen  0.0  0.0  0.0  0.0
+Lynn Hartzler , David L. Goldstein  0.0  0.0  0.0  0.0
+Barbara E. Hull  4.4  4.5  4.3  2.0
+Volker Bahn  0.0  0.0  0.0  0.0
+Yvonne M. Vadeboncoeur  2.3  2.0  2.6  2.0
+Mark D. Mamrack  0.0  0.0  0.0  0.0
+Jeffrey L. Peters  0.0  0.0  0.0  0.0
+Simon J. Tritschler  0.0  0.0  0.0  0.0
+David M. Kender  0.0  0.0  0.0  0.0
+Nasser H. Kashou  0.0  0.0  0.0  0.0
+David B. Reynolds  4.5  4.8  4.2  3.8
+Ping He  3.6  4.0  3.2  3.3
+Thomas N. Hangartner  1.9  1.6  2.3  1.9
+Govind Bharwani  3.3  3.3  3.3  3.3
+Frank W. Ciarallo  3.6  3.9  3.3  1.6
+Julie Ann Skipper  2.6  2.7  2.6  1.9
+Maurissa S. D'Angelo  0.0  0.0  0.0  0.0
+Ira M. Leffak , Yong-jie Xu  0.0  0.0  0.0  0.0
+Oleg Paliy , Madhavi P. Kadakia , John V. Paietta  0.0  0.0  0.0  0.0
+Nancy J. Bigley  0.0  0.0  0.0  0.0
+Robert W. Putnam  0.0  0.0  0.0  0.0
+Adrian M. Corbett  0.0  0.0  0.0  0.0
+Ioana E. Sizemore  4.3  4.6  4.0  3.6
+Weizhen Wang  4.2  4.6  3.8  4.3
+Gerald M. Alter , Kathrin L. Engisch  0.0  0.0  0.0  0.0
+Gerald M. Alter , Robert E. Fyffe  0.0  0.0  0.0  0.0
+Gerald M. Alter , Ioana E. Sizemore  0.0  0.0  0.0  0.0
+Gerald M. Alter , Ira M. Leffak  0.0  0.0  0.0  0.0
+Gerald M. Alter , Heather Hostetler  0.0  0.0  0.0  0.0
+Gerald M. Alter ,  0.0  0.0  0.0  0.0
+Gerald M. Alter , Timothy C. Cope  0.0  0.0  0.0  0.0
+Stephanie K. Davis  2.3  2.3  2.3  1.9
+D.R. Fannin  3.1  3.3  3.0  3.1
+Jonathan Grieb  2.8  2.8  2.8  2.2
+Regis B. Komperda  4.3  4.4  4.2  2.4
+Kirby A. Underwood  4.5  4.6  4.4  4.0
+Roger K. Gilpin  1.6  1.4  1.8  2.9
+Rachel S. Aga  3.7  3.9  3.4  3.7
+Daniel M. Ketcha  3.3  3.1  3.5  3.4
+Kenneth Turnbull  0.0  0.0  0.0  0.0
+Daniel D. Bombick  4.0  4.1  4.0  3.8
+Vladimir Katovic  0.0  0.0  0.0  0.0
+Suzanne K. Lunsford  4.9  4.9  4.9  3.9
+David A. Dolson  3.5  3.8  3.2  2.0
+David A. Grossie  2.2  2.3  2.2  2.6
+Audrey E. McGowin  0.0  0.0  0.0  0.0
+William A. Feld  4.1  3.8  4.4  2.3
+Eric A. Fossum  2.5  3.5  1.5  4.0
+Steven R. Higgins  0.0  0.0  0.0  0.0
+Paul G. Seybold  2.5  2.3  2.6  2.3
+Haili Du  0.0  0.0  0.0  0.0
+Rebecca M. Edwards  4.4  4.4  4.4  3.3
+Bruce M. Laforse  4.3  4.3  4.3  3.1
+Janice J. Gabbert  0.0  0.0  0.0  0.0
+Jeannette C. Marchand  0.0  0.0  0.0  0.0
+Aaron D. Wolpert  4.2  4.2  4.1  3.3
+S. I. Gressis  2.1  2.2  2.1  3.4
+David L. Barr  0.0  0.0  0.0  0.0
+Robert G. Leonard  0.0  0.0  0.0  0.0
+Carol Morgan  3.7  3.7  3.7  4.1
+Adam M. Gutschmidt  3.5  3.3  3.7  2.9
+Kathy D. Gaddis  0.0  0.0  0.0  0.0
+Jennifer J. Alexander  0.0  0.0  0.0  0.0
+Jung-Soo Yi  4.2  4.3  4.2  4.2
+Mary L. Rucker  3.2  3.3  3.2  3.5
+Martha L. Antolik  3.5  3.6  3.5  3.7
+David E. Baxter  0.0  0.0  0.0  0.0
+Ronald A. Rollins  3.4  3.7  3.1  2.9
+Renard Marcano  2.6  2.8  2.5  1.8
+Jeffrey A. John  4.6  4.6  4.7  4.9
+Henry J. Ruminski  0.0  0.0  0.0  0.0
+Jeffrey A. John , Arundhati V. Venkayya  0.0  0.0  0.0  0.0
+Lakshminarayana Tirumala  0.0  0.0  0.0  0.0
+Arundhati V. Venkayya  0.0  0.0  0.0  0.0
+Elliot I. Gaines  0.0  0.0  0.0  0.0
+Marie A. Thompson  3.6  3.7  3.5  3.3
+Travis G. Greenwood  0.0  0.0  0.0  0.0
+Melissa Spirek  2.4  2.3  2.4  2.1
+Susan J. Deluca  0.0  0.0  0.0  0.0
+Harry J. Khamis  5.0  5.0  5.0  2.0
+Marietta A. Orlowski  0.0  0.0  0.0  0.0
+William D. Spears  0.0  0.0  0.0  0.0
+Michele Battle-Fisher  4.7  4.7  4.7  4.4
+Sabrina M. Neeley  4.1  4.2  4.0  2.7
+Mark E. Gebhart  0.0  0.0  0.0  0.0
+Cristina R. Mier , Katherine L. Cauley  0.0  0.0  0.0  0.0
+Christopher R. Eddy  0.0  0.0  0.0  0.0
+Nikki L. Rogers  0.0  0.0  0.0  0.0
+Leah D. Manos  2.8  2.7  2.8  3.0
+John F. Oswald  4.2  4.5  3.8  3.8
+Robert E. Rubin  4.6  4.6  4.6  4.0
+Judson B. Murray  4.5  4.5  4.6  2.9
+Carmine J. Anastasio  3.4  3.4  3.4  2.8
+Diana M. Cataldi  4.9  5.0  4.9  4.9
+Brian D. Cashwell  4.8  4.5  5.0  4.0
+Amy E. Gray  0.0  0.0  0.0  0.0
+Christopher L. Chaffee  0.0  0.0  0.0  0.0
+Ginger R. Minneman  0.0  0.0  0.0  0.0
+Steven B. Aldredge  0.0  0.0  0.0  0.0
+Deborah Netanel  2.5  2.6  2.4  1.6
+Mayu Tsuruya  0.0  0.0  0.0  0.0
+Laura M. Luehrmann  0.0  0.0  0.0  0.0
+John R. Morrisette  4.6  4.6  4.7  4.7
+Jay E. Dejongh  0.0  0.0  0.0  0.0
+Shaojun Wang  2.5  2.7  2.2  1.7
+Prabhaker Mateti  0.0  0.0  0.0  0.0
+Richard L. Van Hook  0.0  0.0  0.0  0.0
+Chris P. Fickert  0.0  0.0  0.0  0.0
+John A. Reisner  0.0  0.0  0.0  0.0
+Michael L. Raymer  0.0  0.0  0.0  0.0
+Travis E. Doom  0.0  0.0  0.0  0.0
+Nikolaos G. Bourbakis  0.0  0.0  0.0  0.0
+Saiyu Ren  0.0  0.0  0.0  0.0
+Jack S. Jean  0.0  0.0  0.0  0.0
+Bin Wang  2.3  2.5  2.1  2.5
+Thomas Wischgoll  1.7  1.8  1.6  1.4
+Xiaodong Zhang  3.9  4.0  3.8  2.5
+John C. Gallagher  4.7  4.5  4.8  3.6
+Chien-In H. Chen  0.0  0.0  0.0  0.0
+John M. Emmert  0.0  0.0  0.0  0.0
+Soon M. Chung  1.8  1.9  1.7  2.5
+Yong Pei  4.0  4.0  4.1  3.3
+Keke Chen  3.2  3.7  2.7  3.9
+Arthur A. Goshtasby  0.0  0.0  0.0  0.0
+Junjie Zhang  3.9  4.0  3.8  2.5
+Karen Meyer  3.6  3.7  3.4  3.4
+Terri M. Bauer  0.0  0.0  0.0  0.0
+John P. Herzog  4.4  4.3  4.4  4.0
+Vanessa L. Starkey  0.0  0.0  0.0  0.0
+David M. Hutchison  0.0  0.0  0.0  0.0
+Michael J. Ondrasek  4.0  4.2  3.7  2.8
+Mateen M. Rizki  4.7  4.8  4.6  3.3
+Pascal Hitzler  3.5  3.4  3.6  3.4
+Analee M. Miranda  0.0  0.0  0.0  0.0
+Eric J. Saunders  5.0  5.0  5.0  5.0
+Mohamed B. Ali  0.0  0.0  0.0  0.0
+Meilin Liu  3.4  3.6  3.1  3.3
+Krishnaprasad Thirunarayan  0.0  0.0  0.0  0.0
+Guozhu Dong  1.7  1.8  1.6  2.4
+Ronald F. Taylor  3.4  3.7  3.1  2.9
+Leo Finkelstein  3.1  3.1  3.1  1.8
+Amit Sheth  0.0  0.0  0.0  0.0
+Erik M. Buck  0.0  0.0  0.0  0.0
+David F. Miller  3.4  3.5  3.2  2.8
+Stephanie N. Spencer ,  0.0  0.0  0.0  0.0
+Stephanie N. Spencer , Carleen M. Beckermann , Lisa K. Duke , Kimberly A. Jungdahl , Kathleen W. O'Brien , Charlene A. Walker , Debra Wilburn  0.0  0.0  0.0  0.0
+Eileen F. Self  0.0  0.0  0.0  0.0
+Kimberly A. Jungdahl  0.0  0.0  0.0  0.0
+Mary A. Jones  2.0  2.3  1.7  1.0
+Diane E. Frey  0.0  0.0  0.0  0.0
+Holly A. Brown-Wright  4.9  4.8  5.0  4.4
+Phyllis A. Henderson  2.7  3.0  2.3  3.0
+Phyllis A. Henderson , Eileen F. Self  0.0  0.0  0.0  0.0
+Richard A. Wantz  3.3  3.4  3.2  2.6
+Donna M. Tromski-Klingshirn  0.0  0.0  0.0  0.0
+Rubin Battino  4.6  4.6  4.6  4.0
+William K. Youngman  0.0  0.0  0.0  0.0
+Steven A. Drewry  0.0  0.0  0.0  0.0
+Melissa B. Lincicome  2.9  3.0  2.8  1.8
+Mary J. Huber  0.0  0.0  0.0  0.0
+Lorraine Turner  0.0  0.0  0.0  0.0
+Robert L. Limbert  4.6  4.4  4.6  3.9
+Donald D. McCabe  0.0  0.0  0.0  0.0
+Nicole G. Gordon  4.6  4.8  4.5  3.8
+Deborah B. Nichols  3.1  3.4  2.9  3.4
+Justin C. Gibbs  0.0  0.0  0.0  0.0
+Michelle S. Goodman  0.0  0.0  0.0  0.0
+Pamela A. Matthews  2.2  2.3  2.2  1.6
+Erin L. Robbins  0.0  0.0  0.0  0.0
+Gina E. Walther  0.0  0.0  0.0  0.0
+Michelle S. Goodman , Erin L. Robbins  0.0  0.0  0.0  0.0
+Molly P. Murphy  0.0  0.0  0.0  0.0
+Teressa McWilliams  4.6  4.4  4.7  4.2
+Jeanette L. Popp  0.0  0.0  0.0  0.0
+Joe Deer  3.8  3.8  3.7  1.8
+Thomas G. Hellems  3.5  3.4  3.7  2.9
+Joanne M. Russell  0.0  0.0  0.0  0.0
+Damien J. Wilker  0.0  0.0  0.0  0.0
+Lisa Antolini  4.4  4.3  4.5  3.8
+Paula J. Ali  0.0  0.0  0.0  0.0
+Heather M. Dennull  0.0  0.0  0.0  0.0
+Mary C. Coyle  0.0  0.0  0.0  0.0
+Winfred D. Hamner  0.0  0.0  0.0  0.0
+Jennifer M. Papadakis  0.0  0.0  0.0  0.0
+Amanda Cheadle  4.5  4.4  4.6  4.2
+Jane P. Blakelock  3.8  3.8  3.7  3.3
+Lynn A. Ford  3.8  3.8  3.8  2.2
+Jinsob Choi  0.0  0.0  0.0  0.0
+Colleen A. Finegan  0.0  0.0  0.0  0.0
+William A. Mosier  4.8  4.7  4.9  4.4
+Doris G. Johnson  4.2  4.2  4.1  4.6
+Jimmie S. Gruber  3.5  3.6  3.4  2.6
+Anna F. Lyon  0.0  0.0  0.0  0.0
+Michelle A. Fleming  4.7  4.7  4.7  4.4
+Teresa E. McCalister  0.0  0.0  0.0  0.0
+Joyce A. Rains  3.4  3.4  3.4  2.8
+Stacey A. Hundley  4.1  3.9  4.2  3.4
+David F. Dominic  3.4  3.1  3.6  2.2
+Michael G. Bourne  4.5  4.4  4.6  3.3
+Huntting W. Brown  0.0  0.0  0.0  0.0
+Songlin Cheng  2.5  2.7  2.4  2.8
+Ernest Hauser  0.0  0.0  0.0  0.0
+Rebecca E. Teed  3.9  3.9  3.9  4.6
+David P. Duell  0.0  0.0  0.0  0.0
+Alan S. Pierce  0.0  0.0  0.0  0.0
+David A. Schmidt  5.0  5.0  5.0  3.0
+Doyle R. Watts  0.0  0.0  0.0  0.0
+Allen G. Hunt  2.1  2.4  1.8  1.8
+Chad R. Hammerschmidt  0.0  0.0  0.0  0.0
+Christopher C. Barton  0.0  0.0  0.0  0.0
+Robert W. Ritzi  0.0  0.0  0.0  0.0
+Abinash Agrawal  2.5  2.5  2.5  1.8
+Joseph C. Whitlock  0.0  0.0  0.0  0.0
+William Slattery  4.8  4.7  4.9  4.4
+Abinash Agrawal , Michael G. Bourne  0.0  0.0  0.0  0.0
+Evan W. Osborne  3.1  3.1  3.1  2.1
+Pamela Bowers  2.2  2.3  2.2  1.6
+Tran H. Dung  1.6  1.7  1.6  1.9
+Carole R. Endres  2.0  2.1  2.0  1.4
+Carol L. Herrick  4.0  3.8  4.2  3.1
+Sirisha C. Naidu  3.7  3.8  3.6  3.1
+Zdravka K. Todorova  2.1  2.4  1.9  2.3
+Thomas M. Jenkins  4.5  4.7  4.3  4.1
+George A. Sodders  3.4  3.6  3.3  3.9
+Panayiotis T. Manolakos  0.0  0.0  0.0  0.0
+Barbara E. Hopkins  2.4  2.5  2.4  2.3
+Thomas L. Traynor  0.0  0.0  0.0  0.0
+John P. Blair  3.4  3.4  3.5  2.8
+Rudy H. Fichtenbaum  3.4  3.5  3.3  3.1
+Linda K. Ramey  3.5  4.0  3.0  4.2
+Ronald L. McDermott  0.0  0.0  0.0  0.0
+Romena M. Holbert  0.0  0.0  0.0  0.0
+Jerry R. Baker  4.0  4.2  3.8  2.8
+Mary M. Chace  0.0  0.0  0.0  0.0
+Nimisha H. Patel  3.9  4.0  3.8  1.7
+Timothy Boester  2.7  2.6  2.8  1.7
+David L. Herick  0.0  0.0  0.0  0.0
+Mary Ellen Carpenter  4.3  4.4  4.2  4.5
+Christa P. Agiro  4.5  4.2  4.8  3.4
+Velvet L. Welz  0.0  0.0  0.0  0.0
+Tracey A. Kramer  4.9  5.0  4.9  3.9
+Hannah H. Chai  0.0  0.0  0.0  0.0
+Ernest C. Flamm  0.0  0.0  0.0  0.0
+Kristofer P. Poland  0.0  0.0  0.0  0.0
+B. J. Denney  0.0  0.0  0.0  0.0
+Julie L. Williams  0.0  0.0  0.0  0.0
+John R. Haught , Colleen A. Finegan  0.0  0.0  0.0  0.0
+Shirley E. Morand  0.0  0.0  0.0  0.0
+Sally A. Lamping  4.7  4.9  4.4  3.1
+Jacqueline K. Collier  0.0  0.0  0.0  0.0
+Carrie R. O'Connor  0.0  0.0  0.0  0.0
+Sachiko Tosa  4.1  4.6  3.7  3.0
+Tracey A. Kramer , David L. Herick  0.0  0.0  0.0  0.0
+John R. McKnight  0.0  0.0  0.0  0.0
+Ronald G. Helms  0.0  0.0  0.0  0.0
+Angela J. Johnson  0.0  0.0  0.0  0.0
+Brian T. Boyd  0.0  0.0  0.0  0.0
+David S. Hoover  0.0  0.0  0.0  0.0
+Joseph A. Yuppa  4.8  4.9  4.7  4.1
+Jeffrey K. Lewis  3.3  3.2  3.4  2.4
+Phoebe B. Ingraham  0.0  0.0  0.0  0.0
+Charles B. Sonenshein  0.0  0.0  0.0  0.0
+Marian G. Faris  0.0  0.0  0.0  0.0
+Margaret W. Frey  0.0  0.0  0.0  0.0
+Myrna R. Gifford  0.0  0.0  0.0  0.0
+David J. Braukman  0.0  0.0  0.0  0.0
+Kurtz K. Miller  3.4  3.5  3.2  2.8
+Donna J. Cole-Dolbeer  0.0  0.0  0.0  0.0
+Jason D. Fruth  3.1  3.0  3.2  3.0
+Bethany L. Khalaf  0.0  0.0  0.0  0.0
+Catherine D. Keener  0.0  0.0  0.0  0.0
+Edwin M. Keener  0.0  0.0  0.0  0.0
+Brenda K. Noble  0.0  0.0  0.0  0.0
+Gail L. Scott  0.0  0.0  0.0  0.0
+Patricia S. Renick  0.0  0.0  0.0  0.0
+James D. Dunne  0.0  0.0  0.0  0.0
+Patricia S. Renick , Ronald G. Helms  0.0  0.0  0.0  0.0
+Diane T. Dynes  0.0  0.0  0.0  0.0
+John C. Cline  0.0  0.0  0.0  0.0
+Sharon E. Stover  0.0  0.0  0.0  0.0
+Yoko Miura  1.5  1.0  2.0  1.0
+Glenn T. Graham  0.0  0.0  0.0  0.0
+Douglas E. Roby  4.8  4.5  5.0  3.5
+William G. Hambright  0.0  0.0  0.0  0.0
+Myra S. Franco  0.0  0.0  0.0  0.0
+Gino J. Pasi  0.0  0.0  0.0  0.0
+Roger N. Carlsen  0.0  0.0  0.0  0.0
+Marguerite Veres  0.0  0.0  0.0  0.0
+Beth A. Cooper  4.6  4.6  4.7  3.9
+William R. Jobert  4.4  4.5  4.2  4.8
+Melissa A. Ross  4.6  4.7  4.5  3.9
+Crystal M. Aker  4.4  4.4  4.4  4.4
+Susan F. Berg  0.0  0.0  0.0  0.0
+George A. Frey  4.6  4.7  4.4  5.0
+Dennis J. Hance  4.5  4.6  4.4  4.2
+Kuldip S. Rattan  3.7  3.9  3.5  3.0
+Pradeep Misra  2.6  2.7  2.4  2.6
+Fred D. Garber  4.3  4.3  4.3  4.0
+Elliott R. Brown  0.0  0.0  0.0  0.0
+Robert C. Fitch  0.0  0.0  0.0  0.0
+James P. Stephens  0.0  0.0  0.0  0.0
+Brian D. Rigling  4.8  4.8  4.8  2.5
+Yan Zhuang  0.0  0.0  0.0  0.0
+Paul J. Hannen  0.0  0.0  0.0  0.0
+Kefu Xue  2.9  3.6  2.2  2.5
+Marian K. Kazimierczuk  4.2  4.4  4.1  3.5
+Jason A. Deibel  4.7  4.6  4.7  3.8
+Douglas T. Petkie  4.0  4.1  3.9  3.2
+08/27-12/15  0.0  0.0  0.0  0.0
+Lang Hong  4.0  4.7  3.3  3.3
+Arnab K. Shaw  2.1  2.1  2.0  2.6
+Raymond E. Siferd  0.0  0.0  0.0  0.0
+Zhiqiang Wu  4.0  4.0  4.0  3.1
+Nathan W. Klingbeil  0.0  0.0  0.0  0.0
+Nicholas A. Baine  2.2  2.7  1.6  3.5
+Phani N. Kidambi  0.0  0.0  0.0  0.0
+Joseph C. Slater  3.8  3.8  3.7  1.8
+Mary E. Fendley  0.0  0.0  0.0  0.0
+George P. Huang  4.8  4.5  5.0  4.0
+Ramana V. Grandhi  0.0  0.0  0.0  0.0
+Darryl Evans  3.0  3.0  3.0  3.0
+Robyne D. Rahim  0.0  0.0  0.0  0.0
+Deborah J. Crusan  4.4  4.6  4.2  4.4
+Melissa R. Carrion  0.0  0.0  0.0  0.0
+Caleb S. Hildenbrandt  0.0  0.0  0.0  0.0
+Stephanie J. Dickey  2.3  2.3  2.3  1.9
+Andrea D. Harris  3.2  3.2  3.1  2.3
+Kristie L. McKiernan  4.0  3.9  4.1  3.3
+Jimmy Chesire  4.6  4.6  4.5  4.2
+Stephen D. Bush  2.2  2.5  2.0  3.0
+Adam L. Kuchta  0.0  0.0  0.0  0.0
+Cynthia K. Marshall  4.8  4.8  4.8  3.9
+Casey L. Flores  0.0  0.0  0.0  0.0
+Dani R. Eller  0.0  0.0  0.0  0.0
+Michelle L. Metzner  4.6  4.6  4.6  3.6
+Byron J. Crews  4.1  4.1  4.1  3.3
+Brady M. Allen  4.6  4.7  4.6  3.5
+Jill R. Dunham  0.0  0.0  0.0  0.0
+Tracy E. Smith  0.0  0.0  0.0  0.0
+Toni A. Penwell  0.0  0.0  0.0  0.0
+Curtis M. Cox  0.0  0.0  0.0  0.0
+Miranda P. Rowe  0.0  0.0  0.0  0.0
+Sarah F. McGinley  0.0  0.0  0.0  0.0
+Richard J. Strader  4.6  4.6  4.6  3.6
+Jessica A. Graue  0.0  0.0  0.0  0.0
+Michael D. Ward  0.0  0.0  0.0  0.0
+Meghan A. Finley  4.0  4.0  4.0  3.5
+Carolyn E. Stoermer  4.4  4.4  4.4  3.0
+Victoria R. Harley  0.0  0.0  0.0  0.0
+Alyssa N. Sampson  0.0  0.0  0.0  0.0
+Richard H. Bullock  3.2  3.1  3.2  2.8
+Dustin R. Fisher  0.0  0.0  0.0  0.0
+Kristen E. Coppess  0.0  0.0  0.0  0.0
+Karen L. Hayes  3.3  3.4  3.2  3.6
+Annika L. Vorhes  0.0  0.0  0.0  0.0
+Patrick S. Geisel  0.0  0.0  0.0  0.0
+Heather R. Patton  0.0  0.0  0.0  0.0
+Sarah M. Bullwinkel  0.0  0.0  0.0  0.0
+Gita Balakrishnan  0.0  0.0  0.0  0.0
+Charles M. Holmes  4.7  4.7  4.7  4.1
+Alex K. Magnuson  0.0  0.0  0.0  0.0
+Tiffany N. Fridley  0.0  0.0  0.0  0.0
+Stephanie M. Thompson  0.0  0.0  0.0  0.0
+Byron B. Bailey  4.8  5.0  4.5  3.5
+Dennis H. Loranger  0.0  0.0  0.0  0.0
+Chelsea L. Romer  0.0  0.0  0.0  0.0
+Kathleen T. Kollman  4.8  5.0  4.5  3.5
+Sally A. DeThomas  3.4  3.4  3.5  3.7
+Stevie A. Kremer  3.4  3.1  3.6  2.8
+David N. Seitz  0.0  0.0  0.0  0.0
+Crystal B. Lake  0.0  0.0  0.0  0.0
+Annette Oxindine  4.8  4.9  4.7  3.3
+Carol Mejia-LaPerle  2.2  2.2  2.1  1.9
+Andrew M. Strombeck  4.1  4.2  4.1  2.6
+James R. Guthrie  3.9  3.8  4.1  2.5
+Alpana Sharma  3.6  3.7  3.6  3.8
+John R. Haught  0.0  0.0  0.0  0.0
+Nancy J. Mack  4.6  4.7  4.4  3.1
+Martin W. Maner  4.1  4.0  4.2  2.5
+Lars E. Soderlund  4.2  4.3  4.2  3.7
+Chris Hall  2.5  3.0  2.0  2.0
+Katrina M. Kittle  0.0  0.0  0.0  0.0
+Barry E. Milligan  0.0  0.0  0.0  0.0
+Roberta L. Pohlman  3.1  3.2  3.1  3.3
+William R. Wood  3.8  3.8  3.7  3.1
+Shon P. Anderson  3.2  3.0  3.4  3.2
+Chad A. Garcia  4.0  4.1  4.0  3.2
+Burhan Kawosa  4.0  4.0  3.9  2.5
+Matthew D. Ingram  3.0  3.3  2.8  3.4
+Lawrence M. Paule  0.0  0.0  0.0  0.0
+Douglas R. Hull  0.0  0.0  0.0  0.0
+M. F. Ainina  0.0  0.0  0.0  0.0
+Qi Wang  2.5  2.7  2.2  1.7
+Nicolas Gressis  2.2  2.7  1.6  3.5
+Thomas L. Mangan  0.0  0.0  0.0  0.0
+Marlena Akhbari  4.6  4.7  4.5  2.6
+Charles F. Allbery  0.0  0.0  0.0  0.0
+James E. Larsen  2.9  2.9  2.9  2.6
+Daniel D. Mefford  0.0  0.0  0.0  0.0
+Kirsten Halling  4.3  4.4  4.2  3.6
+Pascale A. Abadie  4.6  4.7  4.5  4.0
+Erica M. Otto  0.0  0.0  0.0  0.0
+Michelle M. Mize  0.0  0.0  0.0  0.0
+Michele A. McCarty  4.7  4.7  4.7  4.4
+Karine C. Ould-Daddah  0.0  0.0  0.0  0.0
+Marie A. Hertzler  3.8  3.9  3.6  2.6
+Arliss S. Perry  3.8  3.8  3.8  2.9
+Mary V. Wenning  0.0  0.0  0.0  0.0
+Joshua E. Lum  0.0  0.0  0.0  0.0
+Martin H. Kim  0.0  0.0  0.0  0.0
+Robbie L. Sarles  0.0  0.0  0.0  0.0
+Jack L. Dustin  0.0  0.0  0.0  0.0
+Renate K. Sturdevant  0.0  0.0  0.0  0.0
+Elfe M. Dona  0.0  0.0  0.0  0.0
+Miriam U. Powers  0.0  0.0  0.0  0.0
+Monika Daubnerova  0.0  0.0  0.0  0.0
+Mary M. Chace , Rebekah R. Bower , Judy L. Jagger-Mescher  0.0  0.0  0.0  0.0
+Crystal M. Current  0.0  0.0  0.0  0.0
+Judy L. Jagger-Mescher  0.0  0.0  0.0  0.0
+Timothy W. Woolfe , Amy A. Anslinger  0.0  0.0  0.0  0.0
+Timothy W. Woolfe  0.0  0.0  0.0  0.0
+Judy L. Jagger-Mescher , Kevin Lorson  0.0  0.0  0.0  0.0
+Kevin Lorson  4.8  5.0  4.5  2.5
+Edward J. Busher  0.0  0.0  0.0  0.0
+Timothy H. Thoresen  2.7  2.6  2.8  1.7
+Melinda M. Mohler  4.2  4.2  4.2  3.6
+Christopher D. Beck  0.0  0.0  0.0  0.0
+Christopher R. Oldstone-Moore  3.9  3.8  4.0  3.5
+Roy L. Vice  3.9  3.8  3.9  3.2
+Mary Sanderson  3.8  4.0  3.5  3.8
+Susan B. Carrafiello  0.0  0.0  0.0  0.0
+Paul D. Lockhart  4.2  4.1  4.3  3.9
+Sean M. Pollock  3.9  4.1  3.8  2.2
+Ann V. Febus  0.0  0.0  0.0  0.0
+Edward F. Haas  3.2  3.2  3.3  2.8
+Nancy G. Garner  2.8  2.8  2.9  3.4
+Barbara L. Green  3.6  3.7  3.6  3.8
+Arvind Elangovan  0.0  0.0  0.0  0.0
+Kristopher D. Maulden  0.0  0.0  0.0  0.0
+Kathryn B. Meyer  3.6  3.7  3.4  3.4
+Carol M. Herringer  0.0  0.0  0.0  0.0
+Dawne E. Dewey  0.0  0.0  0.0  0.0
+John L. Armstrong  0.0  0.0  0.0  0.0
+Virginia L. Weygandt  0.0  0.0  0.0  0.0
+Maryann J. Kirk  0.0  0.0  0.0  0.0
+Mary A. Chamberlain  4.4  4.5  4.3  3.1
+Yan Liu  1.2  1.0  1.3  1.7
+Caroline G. Cao  0.0  0.0  0.0  0.0
+Xinhui Zhang  3.9  4.0  3.8  2.5
+Pratik J. Parikh  0.0  0.0  0.0  0.0
+Subhashini Ganapathy  0.0  0.0  0.0  0.0
+Monica M. Snow  3.2  3.8  2.8  2.0
+Rosalba V. Nickelman  4.7  4.8  4.6  3.3
+Tomoko Tsuzuki-Deboer  0.0  0.0  0.0  0.0
+Hideko Tsuzuki-Norng  0.0  0.0  0.0  0.0
+Janette M. Davis  0.0  0.0  0.0  0.0
+Jose R. Monegro  0.0  0.0  0.0  0.0
+James E. Brown  4.8  4.8  4.8  4.5
+Greg Coulles  3.0  3.3  2.7  2.4
+Barbara A. Hartman  3.9  3.9  3.9  3.6
+Barbara J. Steinbrunner  0.0  0.0  0.0  0.0
+Gregory M. Paquette  0.0  0.0  0.0  0.0
+Cheryl B. Paquette  0.0  0.0  0.0  0.0
+Jason L. Franklin  0.0  0.0  0.0  0.0
+Mark E. Curry  0.0  0.0  0.0  0.0
+Engelina G. Keihl  0.0  0.0  0.0  0.0
+David A. Finnie  5.0  5.0  4.9  4.7
+Kenneth E. Charpie  0.0  0.0  0.0  0.0
+Regina Bier  4.5  4.4  4.6  2.6
+John M. McCormick  0.0  0.0  0.0  0.0
+Terrence L. Miller  0.0  0.0  0.0  0.0
+Jennifer R. Haley  0.0  0.0  0.0  0.0
+Benjamin B. Mostaed  4.1  4.2  4.0  3.8
+Fabien E. Corbillon  0.0  0.0  0.0  0.0
+Gretchen E. Farrell  0.0  0.0  0.0  0.0
+Whitney K. Wells  0.0  0.0  0.0  0.0
+Patrick E. Willoughby  0.0  0.0  0.0  0.0
+Karen Y. Wonders  3.6  3.6  3.6  2.4
+D. D. Pringle  0.0  0.0  0.0  0.0
+Carol L. Cornett  0.0  0.0  0.0  0.0
+Stephen C. Bridge  0.0  0.0  0.0  0.0
+Mailinh T. Nguyen  0.0  0.0  0.0  0.0
+Ashley J. Velazquez  0.0  0.0  0.0  0.0
+Dana F. Stacy  0.0  0.0  0.0  0.0
+Lilia M. Moyer  0.0  0.0  0.0  0.0
+Karen L. Berry  0.0  0.0  0.0  0.0
+Charis L. Elliott  0.0  0.0  0.0  0.0
+Christine C. Sitko  0.0  0.0  0.0  0.0
+Irena Joseph  3.8  3.8  3.7  1.8
+Lisa M. Smith  0.0  0.0  0.0  0.0
+Daryl D. Hausman  0.0  0.0  0.0  0.0
+Thomas E. Fenton  0.0  0.0  0.0  0.0
+Trisha M. Folck  0.0  0.0  0.0  0.0
+Matthew E. Duncan  0.0  0.0  0.0  0.0
+Dayna L. Foster  0.0  0.0  0.0  0.0
+Jeannette Horwitz  3.6  3.7  3.6  2.1
+Mark E. Landers  4.1  4.1  4.1  2.9
+Paul R. Leonard  0.0  0.0  0.0  0.0
+Suzanne R. Kelly-Garrison  4.9  4.9  4.9  3.9
+John F. Lenehan  0.0  0.0  0.0  0.0
+Timothy J. Rafferty  0.0  0.0  0.0  0.0
+Daniel R. Noel  0.0  0.0  0.0  0.0
+Thomas S. Graham  2.9  2.8  3.0  3.4
+Sharon G. Heilmann  0.0  0.0  0.0  0.0
+11/16-12/14  0.0  0.0  0.0  0.0
+Patrick D. Carus  4.5  4.1  4.9  3.5
+Todd C. Dewett  4.6  4.7  4.5  4.1
+Scott E. MacDonald  4.6  4.6  4.6  4.8
+Riad A. Ajami  3.7  3.6  3.9  3.3
+Natasha V. Munshi  3.2  3.2  3.3  2.7
+Christopher C. Dunn  0.0  0.0  0.0  0.0
+L. W. Wamwara-Mbugua  3.7  3.7  3.7  3.8
+James Munch  3.3  3.2  3.3  3.2
+Larry B. Weinstein  0.0  0.0  0.0  0.0
+Erin K. Henry  0.0  0.0  0.0  0.0
+Lisa R. Crawford  2.6  2.5  2.8  2.5
+Michael R. Evans  0.0  0.0  0.0  0.0
+David S. Bright  4.1  4.4  3.8  3.6
+Mark M. Suazo  4.5  4.4  4.6  4.0
+Joseph A. Petrick  4.2  4.4  4.0  3.0
+Donna J. Back  0.0  0.0  0.0  0.0
+Eugene A. Pierce  2.5  2.0  3.0  4.0
+Brian D. Lyons  4.8  4.8  4.8  2.5
+Elizabeth J. Brown  0.0  0.0  0.0  0.0
+Alexander J. Barelka  0.0  0.0  0.0  0.0
+Melissa L. Gruys  4.6  4.7  4.5  3.9
+Sherri K. Herrick  4.0  3.8  4.2  3.1
+Monica L. Hughley  0.0  0.0  0.0  0.0
+Francis J. Baker  4.5  4.0  5.0  4.0
+Charles W. Hughley  0.0  0.0  0.0  0.0
+Michael J. Kemper  4.8  4.6  5.0  4.2
+Scott D. Williams  4.3  4.4  4.2  2.6
+Lesley D. Ott  0.0  0.0  0.0  0.0
+Kent C. Halverson  0.0  0.0  0.0  0.0
+Robert L. McHenry  0.0  0.0  0.0  0.0
+Francis J. Baker , Ann P. Kendall  0.0  0.0  0.0  0.0
+Noel E. Thompson  4.5  4.5  4.5  3.5
+Anand S. Jeyaraj  0.0  0.0  0.0  0.0
+Joan B. Lumpkin  2.1  2.2  2.1  3.4
+Arijit Sengupta  0.0  0.0  0.0  0.0
+Kevin P. Duffy  4.7  4.7  4.7  4.4
+Shu Z. Schiller  3.7  3.3  4.0  4.2
+Barbara B. Denison  0.0  0.0  0.0  0.0
+Lori A. Humble  5.0  5.0  5.0  2.0
+Harry L. Bouris  0.0  0.0  0.0  0.0
+Donald H. Hopkins  0.0  0.0  0.0  0.0
+Dwight E. Smith-Daniels  0.0  0.0  0.0  0.0
+Joseph W. Coleman  4.3  4.2  4.4  3.4
+Alan S. Chesen  0.0  0.0  0.0  0.0
+Rosemary P. Ramsey  4.1  4.0  4.2  3.5
+Charles S. Gulas  3.1  3.0  3.3  2.7
+Inder P. Khera  2.0  2.2  1.9  2.7
+Pola B. Gupta  4.4  4.6  4.1  3.6
+Kendall P. Goodrich  4.1  4.2  4.0  4.0
+Cynthia F. Fleck  0.0  0.0  0.0  0.0
+Mohamed Abas  3.0  3.3  2.7  3.0
+Loretta A. Bailey  4.8  5.0  4.5  3.5
+Sandra L. Berning  0.0  0.0  0.0  0.0
+Melissa A. Twarek  3.4  3.1  3.8  4.0
+John D. Whitaker  4.8  5.0  4.6  3.4
+Ray J. Otto  4.5  4.5  4.4  2.8
+Karen M. Brackenridge  4.2  4.3  4.1  3.4
+Dora E. Douglas  2.7  2.8  2.6  2.4
+Lop-Fat Ho  0.0  0.0  0.0  0.0
+Steven P. Wilson  0.0  0.0  0.0  0.0
+Phan H. Loi  3.7  3.9  3.6  2.5
+Melinda J. Diesslin  0.0  0.0  0.0  0.0
+Glenn A. Dahl  3.8  4.0  3.7  3.4
+James J. Olsen  0.0  0.0  0.0  0.0
+Betsy S. Witt  0.0  0.0  0.0  0.0
+Linda K. Lester  0.0  0.0  0.0  0.0
+Lisa J. Wellinghoff  4.7  4.6  4.7  4.1
+Helen M. Smith  0.0  0.0  0.0  0.0
+Geva Maimon  2.9  3.0  2.7  2.7
+Elizabeth L. Burns  0.0  0.0  0.0  0.0
+Feng Tian  2.5  3.0  2.0  2.3
+Xiangqian Zhou  0.0  0.0  0.0  0.0
+Daniel C. Slilaty  3.5  3.4  3.7  2.7
+James T. Vance  3.3  3.8  2.8  1.4
+Chao C. Huang  0.0  0.0  0.0  0.0
+Steen Pedersen  0.0  0.0  0.0  0.0
+Richard Mercer  3.3  3.4  3.2  2.6
+Joanne M. Dombrowski  2.4  2.3  2.5  3.0
+Anthony B. Evans  3.0  3.0  3.0  3.0
+K. T. Arasu  4.1  4.2  4.0  3.5
+Xiaoyu Liu  3.4  3.6  3.1  3.3
+Thomas P. Svobodny  1.7  1.8  1.6  1.4
+Lawrence Turyn  2.7  2.8  2.5  2.1
+Yuqing Chen  0.0  0.0  0.0  0.0
+Paulette Y. Zizzo  4.0  4.0  3.9  3.4
+Ann M. Farrell  3.5  3.6  3.3  3.0
+Susann M. Mathews  0.0  0.0  0.0  0.0
+Michelle K. Reed  0.0  0.0  0.0  0.0
+Qingbo Huang  3.5  4.0  3.0  3.3
+Ha-Rok Bae  0.0  0.0  0.0  0.0
+Henry D. Young  2.7  2.9  2.5  3.2
+Hong Huang  2.1  2.2  2.0  1.9
+Scott K. Thomas  3.8  3.8  3.9  2.5
+Amirabbas Farajian  2.4  2.2  2.5  1.8
+Rory A. Roberts  4.9  5.0  4.8  1.8
+James A. Menart  4.0  4.1  3.9  2.2
+Robert J. Leiweke  0.0  0.0  0.0  0.0
+J. M. Wolff  0.0  0.0  0.0  0.0
+Zifeng Yang  0.0  0.0  0.0  0.0
+Maher S. Amer  2.9  2.8  3.0  3.0
+Junghsen Lieh  2.9  3.0  2.8  3.7
+Sharmila M. Mukhopadhyay  2.7  2.7  2.7  3.3
+Allen G. Jackson  0.0  0.0  0.0  0.0
+Raghavan Srinivasan  3.0  2.9  3.1  2.9
+Bor Zeng B Jang  0.0  0.0  0.0  0.0
+Andrew T. Hsu  0.0  0.0  0.0  0.0
+Haibo Dong  2.7  2.8  2.5  2.3
+Phillip E. Wolford  0.0  0.0  0.0  0.0
+Steven A. Sills  4.3  4.2  4.5  3.5
+Maria I. Emery  0.0  0.0  0.0  0.0
+Nicole M. Richter  4.2  4.1  4.3  2.4
+J. R. Johnson  0.0  0.0  0.0  0.0
+William Lafferty  4.2  4.2  4.2  2.5
+James Klein  0.0  0.0  0.0  0.0
+Laura M. Conrad , Nora B. Snow  0.0  0.0  0.0  0.0
+Kimberly J. Warrick  0.0  0.0  0.0  0.0
+Errik M. Hood  0.0  0.0  0.0  0.0
+Nora B. Snow  0.0  0.0  0.0  0.0
+James R. McCutcheon  0.0  0.0  0.0  0.0
+Jonas F. Thoms  0.0  0.0  0.0  0.0
+Stacey L. Russell  0.0  0.0  0.0  0.0
+James W. Tipps  4.6  4.6  4.7  4.4
+Edward F. Cox  3.2  3.2  3.3  2.8
+Lauren R. Hughes  0.0  0.0  0.0  0.0
+John K. Kurokawa  0.0  0.0  0.0  0.0
+Thomas S. Lukowicz  2.9  2.8  3.0  3.4
+Scott M. Schilling  0.0  0.0  0.0  0.0
+Katherine L. deGruchy  0.0  0.0  0.0  0.0
+Debra L. Lindley  0.0  0.0  0.0  0.0
+Robert F. Stockton  0.0  0.0  0.0  0.0
+Henry N. Dahlman  0.0  0.0  0.0  0.0
+David M. Booth  3.6  3.5  3.7  2.3
+Wayne H. Markworth  0.0  0.0  0.0  0.0
+Andrew Collins  4.4  4.2  4.5  4.2
+Laura M. Conrad  0.0  0.0  0.0  0.0
+Victoria L. Ullery  0.0  0.0  0.0  0.0
+Jean A. Ankeney  3.9  3.6  4.2  3.3
+Randall S. Paul  4.9  4.9  4.9  4.4
+Benita W. Tse-Leung  0.0  0.0  0.0  0.0
+Shelley M. Jagow  0.0  0.0  0.0  0.0
+Daniel L. Zehringer  0.0  0.0  0.0  0.0
+Gretchen L. McNamara  0.0  0.0  0.0  0.0
+Gerald Noble  3.6  3.7  3.4  3.1
+In-Hong Cha  4.0  4.7  3.3  3.3
+C. D. Compton  0.0  0.0  0.0  0.0
+Jackson Y. Leung  0.0  0.0  0.0  0.0
+James R. Werner  0.0  0.0  0.0  0.0
+Sean P. Kelley  0.0  0.0  0.0  0.0
+Aaron W. Jacobs  0.0  0.0  0.0  0.0
+Melvyn D. Goldfinger  0.0  0.0  0.0  0.0
+Cindra S. Holland  3.7  3.8  3.6  2.1
+Rosemary W. Eustace  0.0  0.0  0.0  0.0
+Anita K. Dempsey  0.0  0.0  0.0  0.0
+Tracy L. Brewer  0.0  0.0  0.0  0.0
+Lisa A. Filyo  2.6  2.5  2.8  2.5
+Ann M. Bowling  2.4  2.6  2.2  2.7
+Kimberly R. Joo  0.0  0.0  0.0  0.0
+Candace C. Cherrington  0.0  0.0  0.0  0.0
+Gail R. Moddeman  0.0  0.0  0.0  0.0
+Daniel R. Kirkpatrick  0.0  0.0  0.0  0.0
+Jody L. Gill-Rocha  0.0  0.0  0.0  0.0
+Anne C. Russell  0.0  0.0  0.0  0.0
+Detrice G. Barry  4.0  4.5  3.5  3.5
+Kathy J. Keister  0.0  0.0  0.0  0.0
+Sherrill J. Smith  0.0  0.0  0.0  0.0
+Deborah L. Arms  0.0  0.0  0.0  0.0
+Ann M. Stalter  4.4  4.4  4.4  3.8
+Deborah L. Ulrich , Donna M. Curry  0.0  0.0  0.0  0.0
+Jeanine M. Bochenek  0.0  0.0  0.0  0.0
+Lynne M. Kelley  0.0  0.0  0.0  0.0
+Yi-Hui Lee  0.0  0.0  0.0  0.0
+Bobbe A. Gray  3.6  3.5  3.6  2.8
+Kristine A. Scordo  0.0  0.0  0.0  0.0
+Brenda B. Young  0.0  0.0  0.0  0.0
+Mary B. Kaylor  0.0  0.0  0.0  0.0
+Marie A. Bashaw  3.8  3.9  3.6  2.6
+Perla R. Ilagan  1.9  2.0  1.8  2.0
+Mindy S. McNutt  0.0  0.0  0.0  0.0
+Brenda E. Kraner  3.8  3.8  3.9  3.6
+Kristi K. Maxwell  0.0  0.0  0.0  0.0
+Richard L. Shultz  0.0  0.0  0.0  0.0
+Sonseeahray D. Bigbee  4.4  4.6  4.3  2.4
+Mariana Morris  4.8  4.8  4.8  4.5
+Mariana Morris , Valerie C. Neff  0.0  0.0  0.0  0.0
+Mauricio Di Fulvio  0.0  0.0  0.0  0.0
+Marjorie M. Markopoulos , Terry Oroszi  0.0  0.0  0.0  0.0
+Thomas Lockwood  1.7  1.8  1.6  1.4
+David Cool , Stacy L. Hendry  0.0  0.0  0.0  0.0
+DeAnne French , Beverly K. Grunden  0.0  0.0  0.0  0.0
+Carol L. Sabourin  0.0  0.0  0.0  0.0
+Karen L. Mumy  0.0  0.0  0.0  0.0
+Terry Oroszi  0.0  0.0  0.0  0.0
+Terry Oroszi ,  0.0  0.0  0.0  0.0
+Mariana Morris , Francisco J. Alvarez-Leefmans , Terese L. Desimio  0.0  0.0  0.0  0.0
+Linda L. Farmer  4.2  4.4  4.1  2.8
+Gail A. Lichtenfels  4.4  4.4  4.3  4.3
+Donovan T. Miyasaki  0.0  0.0  0.0  0.0
+Scott D. Wilson  4.0  4.2  3.8  2.9
+Erik C. Banks  4.1  4.3  3.9  3.1
+William J. Wagner  4.8  4.7  4.9  4.4
+Sarah F. Tebbens  4.0  4.4  3.6  3.9
+Brent D. Foy  0.0  0.0  0.0  0.0
+Ivan Medvedev  2.8  3.0  2.7  2.8
+Gary C. Farlow  1.8  1.9  1.6  2.3
+Beth Basista  3.5  4.0  3.0  1.0
+Timothy F. Meade  0.0  0.0  0.0  0.0
+Jerry D. Clark  3.2  3.4  3.0  1.9
+Eric N. Rowley  4.8  5.0  4.7  4.3
+Lok C. Lew Yan Voon  0.0  0.0  0.0  0.0
+Thomas E. Skinner  0.0  0.0  0.0  0.0
+Gregory Kozlowski  3.0  3.3  2.7  2.4
+Nick A. Ritucci  4.5  4.6  4.3  1.9
+Rashida Hussain  3.2  3.1  3.2  3.4
+December A. Green  4.2  4.1  4.2  3.5
+Samuel C. Funderburk  0.0  0.0  0.0  0.0
+Sean C. Wilson  4.0  4.1  4.0  2.7
+Alex G. Elkins  0.0  0.0  0.0  0.0
+Rebecca A. Karason  4.4  4.4  4.4  3.3
+Edward A. Fitzgerald  4.2  4.2  4.2  2.1
+Matthew V. Filipic  0.0  0.0  0.0  0.0
+Donna M. Schlagheck  0.0  0.0  0.0  0.0
+Vaughn P. Shannon  4.5  4.7  4.3  2.7
+Myron A. Levine  4.0  3.9  4.1  2.6
+Tracy D. Snipe  2.0  2.1  2.0  2.6
+John P. Feldmeier  4.6  4.6  4.6  3.1
+William L. Gillispie  0.0  0.0  0.0  0.0
+Liam D. Anderson  4.3  4.3  4.4  3.8
+Russell W. Ayres  0.0  0.0  0.0  0.0
+Paul R. Leonard , Matthew V. Filipic  0.0  0.0  0.0  0.0
+Laura M. Luehrmann , Donna M. Schlagheck  0.0  0.0  0.0  0.0
+December A. Green , Liam D. Anderson , Vaughn P. Shannon  0.0  0.0  0.0  0.0
+Donna M. Schlagheck , Laura M. Luehrmann , Vaughn P. Shannon  0.0  0.0  0.0  0.0
+Cheryl L. Meyer  0.0  0.0  0.0  0.0
+Kathleen A. Malloy , LaPearl L. Winfrey  0.0  0.0  0.0  0.0
+Allison L. Fernander  3.0  3.0  3.0  5.0
+James E. Dobbins , Kathleen A. Malloy  0.0  0.0  0.0  0.0
+Michelle S. Schultz  0.0  0.0  0.0  0.0
+Eve M. Wolf  0.0  0.0  0.0  0.0
+James S. Fraser  3.5  3.6  3.4  2.6
+Celeste M. Waller  0.0  0.0  0.0  0.0
+Martyn S. Whittingham  0.0  0.0  0.0  0.0
+Eric C. Drown  0.0  0.0  0.0  0.0
+James E. Dobbins  0.0  0.0  0.0  0.0
+LaPearl L. Winfrey  0.0  0.0  0.0  0.0
+Kathleen A. Malloy  3.9  4.0  3.7  1.9
+Janeece Warfield  0.0  0.0  0.0  0.0
+Robert A. Rando  3.2  3.5  2.9  2.7
+Scott T. Kidd  0.0  0.0  0.0  0.0
+Jeffery B. Allen  0.0  0.0  0.0  0.0
+Larry C. James  0.0  0.0  0.0  0.0
+Leon D. Vandecreek  0.0  0.0  0.0  0.0
+Janeece Warfield , Julie L. Williams  0.0  0.0  0.0  0.0
+Kathleen A. Malloy , Janeece Warfield  0.0  0.0  0.0  0.0
+Janeece Warfield , Kathleen A. Malloy  0.0  0.0  0.0  0.0
+Daniela L. Burnworth  0.0  0.0  0.0  0.0
+Todd F. Walker  0.0  0.0  0.0  0.0
+LaPearl L. Winfrey , Michelle S. Schultz  0.0  0.0  0.0  0.0
+LaPearl L. Winfrey ,  0.0  0.0  0.0  0.0
+Victor McCarley  2.4  2.2  2.5  4.2
+Pamela R. Dowling  0.0  0.0  0.0  0.0
+Daniel L. Weber  3.2  3.5  2.9  1.9
+Robert L. Gordon  4.3  4.2  4.4  4.1
+Matthew D. Shively  3.0  3.3  2.8  3.4
+Marty McMichael  2.6  2.5  2.8  4.8
+Kelly E. Neriani  2.5  2.0  3.0  4.0
+Michelle R. Smith  4.7  4.7  4.7  4.4
+Alicia J. Wagoner  4.2  4.0  4.4  4.0
+Melissa A. Berry  5.0  5.0  5.0  3.8
+Corey E. Miller  4.1  3.8  4.4  4.6
+Patricia A. Schiml  4.9  4.9  4.9  3.1
+Brian M. Kruger  2.2  2.3  2.1  2.7
+Michal Kraszpulski  4.2  4.2  4.2  3.8
+Gary N. Burns  3.1  2.7  3.4  3.1
+Stephen R. Gabbard  4.8  5.0  4.7  3.3
+Robert H. Gilkey  3.2  3.5  2.8  2.8
+Nathan A. Bowling  3.5  3.5  3.5  3.4
+Tamera R. Schneider  4.0  4.1  3.9  3.4
+Pamela S. Tsang  2.2  2.3  2.2  1.6
+Mark D. Humbert  4.8  4.8  4.8  4.0
+Tom J. Knobbe  2.9  2.8  3.0  3.4
+Martin P. Gooden  3.8  3.8  3.7  2.9
+Gene M. Alarcon  3.4  3.5  3.3  4.0
+John M. Reising  0.0  0.0  0.0  0.0
+Gina F. Thomas  2.7  2.4  3.0  4.0
+Gale A. Kleven  3.8  4.0  3.7  2.7
+Cosette Fox  4.8  5.0  4.6  4.6
+David M. Lahuis  0.0  0.0  0.0  0.0
+Wayne L. Shebilske  3.5  3.6  3.4  3.7
+Valerie L. Shalin  0.0  0.0  0.0  0.0
+Jessica R. Moss  0.0  0.0  0.0  0.0
+Michael A. Vidulich  0.0  0.0  0.0  0.0
+Dragana I. Claflin  0.0  0.0  0.0  0.0
+John M. Flach  0.0  0.0  0.0  0.0
+Kevin B. Bennett  0.0  0.0  0.0  0.0
+Elizabeth C. Brads  0.0  0.0  0.0  0.0
+Awad E. Halabi  2.3  2.2  2.3  1.8
+Mohsen M. Khani  2.8  2.8  2.9  1.5
+Pramod K. Kantha  2.9  3.3  2.5  3.3
+Ryan R. Taylor  0.0  0.0  0.0  0.0
+Jeffrey A. Vernooy  4.6  4.6  4.7  4.9
+Gina R. Oswald  0.0  0.0  0.0  0.0
+Deanna L. Arbuckle  0.0  0.0  0.0  0.0
+Carl W. Sabo  0.0  0.0  0.0  0.0
+Joseph E. Keferl  3.7  3.7  3.6  4.1
+Joseph E. Keferl , Carl W. Sabo  0.0  0.0  0.0  0.0
+Peter J. Bekins  4.0  3.8  4.2  4.0
+Thomas W. Dilbeck  0.0  0.0  0.0  0.0
+Mark Verman  4.0  4.0  4.0  3.3
+Yuliya Walsh  4.5  5.0  4.0  5.0
+Stefan Pugh  0.0  0.0  0.0  0.0
+Michael R. Edwards  4.8  4.8  4.8  4.5
+Cathy J. Sayer  0.0  0.0  0.0  0.0
+Theresa I. Myadze  3.2  4.0  2.5  5.0
+Shreya S. Bhandari  0.0  0.0  0.0  0.0
+Jonathan C. Varhola  4.2  4.2  4.2  4.2
+Patricia E. Tingler  0.0  0.0  0.0  0.0
+Beth I. Kinsel  3.9  3.6  4.2  3.0
+Mary A. Nelson  2.9  2.9  2.8  2.1
+Jo E. Layne  0.0  0.0  0.0  0.0
+Michel A. Coconis  0.0  0.0  0.0  0.0
+Carl F. Brun  4.1  4.3  3.9  3.4
+Azadeh Jahanbegloo  2.4  2.5  2.3  3.1
+Candice N. Flowers-Taylor  4.7  4.9  4.6  4.3
+James A. Adamitis  4.9  5.0  4.8  4.0
+Carin L. Benning  0.0  0.0  0.0  0.0
+Phyllis A. Cole  2.7  3.0  2.3  3.0
+Chigon Kim  3.4  3.8  3.1  3.3
+Marlese Durr  2.0  2.0  2.1  1.9
+Julianne M. Weinzimmer  0.0  0.0  0.0  0.0
+Michael R. Norris  3.6  3.6  3.6  3.8
+Ksenia Bonch Reeves  4.2  4.3  4.1  3.3
+Michelle A. Cipriano  4.0  3.8  4.1  2.9
+Nancy J. Broughton  3.7  3.9  3.6  2.9
+Maria P. Astudillo  3.9  4.1  3.7  2.5
+Jay C. Olson  0.0  0.0  0.0  0.0
+Janet E. Irvin  0.0  0.0  0.0  0.0
+Dorothy Alvarez  3.8  3.9  3.6  2.8
+Melissa K. Doran  4.6  4.7  4.5  3.9
+David A. Petreman  4.6  4.6  4.7  2.7
+Damaris E. Serrano  2.9  3.2  2.5  1.7
+Michael J. Cusack  0.0  0.0  0.0  0.0
+Munsup Seoh  2.3  2.6  2.2  2.6
+Kimberly K J. Kinateder  0.0  0.0  0.0  0.0
+Erin M. Tewksbury  0.0  0.0  0.0  0.0
+Makarand V. Ratnaparkhi  4.3  4.5  4.2  4.4
+Thaddeus Tarpey  0.0  0.0  0.0  0.0
+Richard A. Danals  3.3  3.4  3.2  2.6
+Roxanne S. DuVivier  0.0  0.0  0.0  0.0
+Carol L. Patitu  0.0  0.0  0.0  0.0
+Joanne Risacher , Roxanne S. DuVivier  0.0  0.0  0.0  0.0
+Gregory M. Kellar  0.0  0.0  0.0  0.0
+George G. Polak  4.4  4.4  4.4  3.9
+James W. Hamister  0.0  0.0  0.0  0.0
+Matthew T. McConville  0.0  0.0  0.0  0.0
+Sundaram Narayanan  0.0  0.0  0.0  0.0
+Katie D. McEwen  0.0  0.0  0.0  0.0
+Sherri L. Sutter  0.0  0.0  0.0  0.0
+Jamie W. Cordes  0.0  0.0  0.0  0.0
+Heather N. Sparks  0.0  0.0  0.0  0.0
+Lee M. Hapner  0.0  0.0  0.0  0.0
+David E. Hapner  0.0  0.0  0.0  0.0
+John M. Lavarnway  0.0  0.0  0.0  0.0
+Deborah E. Bartlett Blair  0.0  0.0  0.0  0.0
+Sandra J. Crews  4.0  4.1  3.8  3.0
+Richard M. Church  0.0  0.0  0.0  0.0
+Timothy C. Judge  0.0  0.0  0.0  0.0
+Janet S. Denman  0.0  0.0  0.0  0.0
+Matthew P. Benjamin  0.0  0.0  0.0  0.0
+Brian J. McKnight  0.0  0.0  0.0  0.0
+Marya S. Cordes  0.0  0.0  0.0  0.0
+Bruce B. Cromer  0.0  0.0  0.0  0.0
+Deborah J. Thomas  4.4  4.6  4.2  4.4
+Pam Knauert Lavarnway  0.0  0.0  0.0  0.0
+W. S. McDowell  0.0  0.0  0.0  0.0
+Sherri L. Sutter , David E. Hapner  0.0  0.0  0.0  0.0
+Jamie W. Cordes , David E. Hapner  0.0  0.0  0.0  0.0
+Lee M. Hapner , David E. Hapner  0.0  0.0  0.0  0.0
+Janet M. Waddel  0.0  0.0  0.0  0.0
+Timothy J. Littell  0.0  0.0  0.0  0.0
+Keith L. Pohlman , Catherine A. Queener  0.0  0.0  0.0  0.0
+Christa J. Wilson , Catherine A. Queener  0.0  0.0  0.0  0.0
+Alex N. Wenning  0.0  0.0  0.0  0.0
+Lindsay B. Tolchin  0.0  0.0  0.0  0.0
+Joshua G. Foster  0.0  0.0  0.0  0.0
+Jacqueline S. Neal  0.0  0.0  0.0  0.0
+Susan B. Carrafiello , Bethany L. Foureman  0.0  0.0  0.0  0.0
+Byron J. Crews , Samuel C. Funderburk  0.0  0.0  0.0  0.0
+James E. Sayer  4.8  4.8  4.8  4.5
+Marjorie L. McLellan  2.2  2.3  2.0  2.3
+Peter A. Doherty  3.6  3.4  3.8  3.8
+Jennifer E. Subban  2.3  2.5  2.2  2.3
+Enamul H. Choudhury  0.0  0.0  0.0  0.0
+Jerri S. Killian  4.2  4.3  4.1  2.0
+Kelli D. Zaytoun  4.6  4.7  4.6  3.6
+Linda A. Long  4.3  4.2  4.4  3.4
+Nannette L. Whaley  0.0  0.0  0.0  0.0

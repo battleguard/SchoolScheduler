@@ -41,7 +41,7 @@ public class DarsParser {
 							// check for class types header which will always have a ':' in it
 							String header = input.substring(input.indexOf('>'), input.indexOf("<a"));
 							if(header.contains(":")) {
-								printLine("\t\tSUB SECTION CLASS TYPES: ", header, out, true);
+								printLine("\t\tSUB SECTION TYPES: ", header, out, true);
 							}
 							// split all classes using html </a> since they are all wrapped in an ahref link
 							String[] classes = input.split("</a>");

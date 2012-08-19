@@ -33,17 +33,22 @@ public class DARS {
 	}
 	
 	public class DarsSection {
-		final String SectionName;		
+		private final String MainTitle;
+		private final String MainNeeds;
 		
-		public DarsSection(final String SectionName) {
-			this.SectionName = SectionName;
+		public DarsSection(String MainTitle, String MainNeeds) {
+			this.MainTitle = MainTitle;
+			this.MainNeeds = MainNeeds;
 		}
 		
 		public class SubSection {
-			final String SubSectionName;
+			private final String SubTitle;
+			private final String SubSummary;
+			private String[] SubSectionClassTypes;
 			
-			public SubSection(final String subSectionName) {
-				this.SubSectionName = subSectionName;
+			public SubSection(String SubTitle, String SubSummary) {
+				this.SubTitle = SubTitle;
+				this.SubSummary = SubSummary;
 			}
 		}
 		

@@ -1,0 +1,119 @@
+Accountancy - ACC
+Aerospace Medicine - ASM
+Aerospace Studies - AES
+Afr /Afr Amer Studies - AFS
+American Sign Language - ASL
+Anatomy - ANT
+Anthropology - ATH
+Applied Behavioral Science - ABS
+Applied Studies - APS
+Arabic - ARA
+Art - ART
+Art Education - AED
+Athletic Training - ATR
+Biochem & Molecular Biology - BMB
+Biology - BIO
+Biomedical Engineering - BME
+Biomedical Sciences - BMS
+Career and Technical Education - CTE
+Center for Economic Educ. - ECO
+Chemistry - CHM
+Chinese - CHI
+Classics - CLS
+Clinical Laboratory Science - CL
+Communication - COM
+Community Health - CMH
+Community Services Development - CSD
+Comparative Studies - CST
+Computer Engineering - CEG
+Computer Science - CS
+Cooperative Education - CPE
+Counseling - CNL
+DMV Consortium - DMV
+Dance - DAN
+Developmental Education - DEV
+Early Childhood Education - ECE
+Earth & Environmental Sciences - EES
+Economics - EC
+Education - ED
+Education_Special Education - EDS
+Educational Leadership - EDL
+Educational Technology - EDT
+Electrical Engineering - EE
+Engineering - EGR
+English - ENG
+Environmental Sciences - ES
+Exercise Biology - EXB
+Finance - FIN
+Food and Agricultural Systems - FAS
+French - FR
+Geography - GEO
+German - GER
+Greek - GR
+Health Education - HED
+Health Phy Educ & Recreation - HPR
+Higher Education Admin - HEA
+History - HST
+Humanities - HUM
+Industrial & Hum Fac Engr - IHE
+Industrial & Systems Engr - ISE
+Information Technology - IT
+International Business - IB
+Intl Continued Registration - ITL
+Italian - ITA
+Japanese - JPN
+Kinesiology & Health - KNH
+LEAP - LEP
+Latin - LAT
+Law - LAW
+Law Enforcement - LE
+Leadership - LDR
+Liberal Arts - LA
+MBA - MBA
+Management - MGT
+Management Information Systems - MIS
+Management Science - MS
+Marketing - MKT
+Mathematics - MTH
+Mathematics Teacher Education - MTE
+Mechanical and Materials Engr - ME
+Microbiology & Immunology - M&I
+Military Science - MIL
+Modern Languages - ML
+Motion Picture - MP
+Music - MUS
+Music: Applied Music - MUA
+Music: Ensembles - MUE
+Neuroscience, Cell Bio & Phys - NCP
+Nursing - NUR
+Office Information Systems - OIS
+Organizational Leadership - OL
+Pharmacology/Toxicology - PTX
+Philosophy - PHL
+Physics - PHY
+Physiology & Neuroscience - P&N
+Political Science - PLS
+Professional Psychology - PSI
+Psychology - PSY
+Regional Studies - RST
+Rehabilitation - RHB
+Religion - REL
+Russian - RUS
+Science and Mathematics - SM
+Service Learning - SRV
+Sign Language Interpreter - SLI
+Social Work - SW
+Sociology - SOC
+Spanish - SPN
+Sports Management - SPM
+Statistics - STT
+Student Affairs in Higher Ed - SAA
+Supply Chain Management - SCM
+Technical Admin - TAD
+Technical Management - TMG
+Theatre - TH
+Transition to Work - TTW
+University College - UVC
+University Honors - UH
+Urban Affairs - URS
+Women's Studies - WMS

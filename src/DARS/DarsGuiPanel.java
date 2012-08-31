@@ -2,46 +2,38 @@ package DARS;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
-import java.util.Vector;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.JTable;
-import javax.swing.JTextArea;
 
-public class DarsGuiPanel extends JFrame {
+import Main.Table;
+
+public class DarsGuiPanel extends JPanel {
 	private static final long serialVersionUID = 5857887917951435365L;
+	private Dars dars = new Dars();
 	
-	
-	public static void main(String[] args) {
-		new DarsGuiPanel();
-	}
+	public ActionListener BUTTON_LISTENER = new ActionListener() {
+		@Override
+		public void actionPerformed(ActionEvent e) {
+			for (MainGroup group : dars.MainGroups) {
+				group.setEnabled(e.getSource().equals(group.getButton()));
+			}	
+		}
+	};
 	
 	public DarsGuiPanel() {
-		super("Dars Report");
-		getContentPane().setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS));
+		setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
 		
-		Dars dars = new Dars();
-		
-		for (MainGroup mainGroup : dars.MainGroups) {
-			for (SubGroup subGroup : mainGroup.subGroups) {
-				for (SubClassGroup subClassGroup : subGroup.SubClassGroups) {
-					for (Course course : subClassGroup.courses) {
-						DarsTable.addCourse(course);						
-					}
-				}
-			}							
-		}
-		DarsTable.setupColumnSpacing();
-		DarsTable.table.setFillsViewportHeight(true);
-		add(DarsTable.scrollPane);
-		
-		//setPreferredSize(new Dimension(Table.TABLE_WIDTH, Table.TABLE_HEIGHT));
+		for (MainGroup group : dars.MainGroups) {
+			add(group.createPanel());
+			group.getButton().addActionListener(BUTTON_LISTENER);
+		}				
+		//Table.showDarsCourses(dars.MainGroups.get(0).subGroups.get(0).SubClassGroups.get(0).courses);
 		final Dimension screen = Toolkit.getDefaultToolkit().getScreenSize();
-		setLocation(screen.width / 2 - 100, screen.height / 2 - 100);
-		pack();
-		setVisible(true);
+		setPreferredSize(new Dimension(400, screen.height - 100));
+		setMaximumSize(new Dimension(400, screen.height - 100));
 	}
 }

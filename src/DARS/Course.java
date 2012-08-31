@@ -3,6 +3,8 @@ package DARS;
 import java.util.Arrays;
 import java.util.Vector;
 
+import Main.CourseInfo;
+
 public class Course {
 	private final String Subject;
 	private final int Number;
@@ -54,10 +56,29 @@ public class Course {
 		return Number + (Lab ? "L" : "");
 	}
 	
+	@Override public boolean equals(Object obj) {
+		if(!obj.getClass().equals(CourseInfo.class)) {
+			return false;
+		}		
+		CourseInfo course = (CourseInfo) obj;
+		
+		if(course.Subject.equals(Subject)) {
+			final boolean hasLab = course.CourseNumber.endsWith("L");
+			final int number = Integer.parseInt(course.CourseNumber.substring(0, 4));
+			if(MultiCourse) {
+				return (number >= Number && number <= EndNumber);				
+			} else {
+				return hasLab == Lab && number == Number;
+			}
+		}
+		return false;
+	};
+	
 	@SuppressWarnings("rawtypes")
 	public Vector getRowData() {
-		String number = "" + Number + (Lab ? "L " : " ") + (MultiCourse ? "TO " + EndNumber : "");
-		final Object[] data = {Subject, number};
+		final Object[] data = {toString()};
+		//String number = "" + Number + (Lab ? "L " : " ") + (MultiCourse ? "TO " + EndNumber : "");
+		//final Object[] data = {Subject, number};
 		return new Vector<>(Arrays.asList(data));
 	}
 	
